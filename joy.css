@@ -100,6 +100,9 @@ button {
   margin-top: 30px;
   flex-wrap: wrap;
 }
+.customer h2{
+  margin-bottom: 20px;
+}
 
 .logo {
   margin-right: auto;
